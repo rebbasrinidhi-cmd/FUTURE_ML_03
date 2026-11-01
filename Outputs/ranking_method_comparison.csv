@@ -1,0 +1,5 @@
+Method,Precision@10,NDCG@10,MAP,Order check
+Keyword match (count of required skills),1.0,1.0,0.8773595390446998,0.8957204041181313
+Text similarity only (TF-IDF),1.0,1.0,0.989757480074077,0.6185998631404469
+Role classifier only,1.0,1.0,0.9995489480977576,0.5052689490806352
+Hybrid score (this system),1.0,1.0,0.9965694507328428,0.8568078182354767

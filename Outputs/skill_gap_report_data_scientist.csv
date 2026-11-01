@@ -1,0 +1,11 @@
+,resume_id,name,score,verdict,years_exp,education_level,gap_summary
+1,R0020,Isha Haddad,90.9,Shortlist,7,bachelor,Has 7 of 8 required skills. Missing: pandas.
+2,R0043,Omar Novak,89.9,Shortlist,6,bachelor,"Has 6 of 8 required skills. Missing: feature engineering, pandas."
+3,R0010,Kabir Ivanov,85.7,Shortlist,7,master,"Meets every required skill. Nice-to-have gaps: docker, nlp, tensorflow."
+4,R0047,Priya Tanaka,85.4,Shortlist,5,master,"Has 6 of 8 required skills. Missing: feature engineering, numpy."
+5,R0034,Tara Sharma,85.2,Shortlist,8,bachelor,"Meets every required skill. Nice-to-have gaps: docker, nlp."
+6,R0037,Maya Tanaka,85.2,Shortlist,6,master,"Has 6 of 8 required skills. Missing: numpy, pandas."
+7,R0038,Chloe Mehta,84.7,Shortlist,7,bachelor,"Has 6 of 8 required skills. Missing: pandas, sql."
+8,R0003,Liam Chen,84.4,Shortlist,6,bachelor,Has 7 of 8 required skills. Missing: statistics.
+9,R0016,Ethan Tanaka,83.9,Shortlist,5,bachelor,"Has 6 of 8 required skills. Missing: python, sql."
+10,R0050,Nora Novak,83.5,Shortlist,6,bachelor,"Has 6 of 8 required skills. Missing: feature engineering, scikit-learn."

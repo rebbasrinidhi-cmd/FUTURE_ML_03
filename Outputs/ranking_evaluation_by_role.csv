@@ -1,0 +1,25 @@
+Role,Method,Precision@10,NDCG@10,MAP,Order check
+Data Analyst,Keyword match (count of required skills),1.0,1.0,0.8223699206314811,0.919528600121994
+Data Analyst,Text similarity only (TF-IDF),1.0,1.0,0.9850588515534214,0.6684081260873214
+Data Analyst,Role classifier only,1.0,1.0,1.0,0.4936409943504473
+Data Analyst,Hybrid score (this system),1.0,1.0,0.9980550895746281,0.9005816629630463
+Data Scientist,Keyword match (count of required skills),1.0,1.0,0.7949048066464082,0.883855066416706
+Data Scientist,Text similarity only (TF-IDF),1.0,1.0,0.9879062220509607,0.683424283859794
+Data Scientist,Role classifier only,1.0,1.0,1.0,0.6291606442838046
+Data Scientist,Hybrid score (this system),1.0,1.0,0.9984972170686457,0.9091435200960476
+DevOps Engineer,Keyword match (count of required skills),1.0,1.0,0.8615465024546382,0.9114541693326427
+DevOps Engineer,Text similarity only (TF-IDF),1.0,1.0,0.9742641297599973,0.7930415545531072
+DevOps Engineer,Role classifier only,1.0,1.0,0.9972936885865458,0.5500157915319543
+DevOps Engineer,Hybrid score (this system),1.0,1.0,0.9855797213913502,0.9018432803747187
+Full Stack Developer,Keyword match (count of required skills),1.0,1.0,0.9565263156514052,0.9126204209156835
+Full Stack Developer,Text similarity only (TF-IDF),1.0,1.0,0.9913156770800828,0.5612464934353653
+Full Stack Developer,Role classifier only,1.0,1.0,1.0,0.5594306573491746
+Full Stack Developer,Hybrid score (this system),1.0,1.0,0.9972846763624333,0.7740712337541941
+Java Backend Developer,Keyword match (count of required skills),1.0,1.0,0.8828295874419798,0.8695472881279172
+Java Backend Developer,Text similarity only (TF-IDF),1.0,1.0,1.0,0.3733824908284859
+Java Backend Developer,Role classifier only,1.0,1.0,1.0,0.330716394138688
+Java Backend Developer,Hybrid score (this system),1.0,1.0,1.0,0.7755339148733585
+Project Manager,Keyword match (count of required skills),1.0,1.0,0.9459801014422864,0.877316879793844
+Project Manager,Text similarity only (TF-IDF),1.0,1.0,1.0,0.6320962300786079
+Project Manager,Role classifier only,1.0,1.0,1.0,0.4686492128297428
+Project Manager,Hybrid score (this system),1.0,1.0,1.0,0.8796732973514952
